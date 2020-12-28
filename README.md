@@ -1,2 +1,3 @@
 # Portofolio
- One page portofolio website
+ One page portofolio website that represents me and my previous work
+ 

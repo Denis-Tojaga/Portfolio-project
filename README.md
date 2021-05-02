@@ -1,7 +1,7 @@
-# Portofolio
+# Portofolio 
  
-### One page portofolio website that represents me and my previous work
-####  All project,contact and social info can be found here:)
+### One page portofolio website made with HTML,CSS and JS
+
 
 <br><br>
 ![](AppImages/slika1.png)

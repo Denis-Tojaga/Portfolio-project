@@ -1,6 +1,6 @@
-# Portofolio 
+# Portfolio 
  
-### One page portofolio website made with HTML,CSS and JS
+### One page portfolio website made with HTML,CSS and JS
 
 
 <br><br>
